@@ -1,0 +1,20 @@
+神秘代码 （rc版合作伙伴测试密钥，正式版测试可用）
+VMware vSphere ESXi 7.0 Enterprise Plus
+=======================================
+JJ2WR-25L9P-H71A8-6J20P-C0K3F
+HN2X0-0DH5M-M78Q1-780HH-CN214
+JH09A-2YL84-M7EC8-FL0K2-3N2J2
+VMware vCenter 7.0 Standard
+============================
+104HH-D4343-07879-MV08K-2D2H2
+410NA-DW28H-H74K1-ZK882-948L4
+406DK-FWHEH-075K8-XAC06-0JH08VMware VSAN 7.0 Enterprise Plus
+============================
+HN0D8-AAJ1Q-07D00-6U924-CX224
+50008-221DH-M7E99-A9CKM-A1030
+HN0NH-62051-H75E9-P38RM-0H870
+VMware vSphere 7 Enterprise Plus with Add-on for Kubernetes
+============================
+J1608-4GJEQ-071L8-9VA0H-2MUK6
+M10DH-8YL47-474L1-DV3U0-8H054
+MM4MR-2G005-H7039-JVCAP-2RAL8
